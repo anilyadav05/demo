@@ -1,0 +1,1 @@
+This is a same file for git tutorial.
