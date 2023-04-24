@@ -3,4 +3,4 @@ This line should cause merge conflict.
 This should cause problem.
 Just some update using 'update branch'
 adding this file for checking stashing.
-just some update.
+this is to check time travel.
